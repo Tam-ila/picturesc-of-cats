@@ -1,0 +1,39 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(174, 0, 255);
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.cap{
+    height: 130px;
+}
+
+.lie{
+    height: 130px;
+    margin: 20x;
+}
+
+.lia{
+    margin: 0px 0px 0px 50px;
+}
+
+.plaid{
+    height: 160px;
+}
+
+.plaib{
+    margin: 0px 0px 0px 130px;
+}
+
+
+.bread{
+    height: 130px;
+}
+
+.breab{
+    margin: 0px 0px 0px 200px;
+}
